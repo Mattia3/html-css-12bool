@@ -1,0 +1,9 @@
+@media only screen and (min-width: 576px){
+  .display-none-xs{
+    display: block;
+  }
+
+  .container{
+    width: 540px;
+  }
+}
