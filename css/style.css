@@ -24,39 +24,5 @@
   min-height: 15px;
 }
 
-.alignment-center{
-  justify-content: center;
-}
 
-.alignment-end{
-  justify-content: end;
-}
-
-.box-height{
-  height: 80px;
-}
-
-.alignment-top{
- align-self: flex-start;
-}
-
-.alignment-middle{
-  align-self: center;
-}
-
-.alignment-bottom{
-  align-self: flex-end;
-}
-
-.box-space-around{
-  justify-content: space-around;
-}
-
-.box-space-between{
-  justify-content: space-between;
-}
-
-.display-none-xs{
-  display: none;
-}
 
